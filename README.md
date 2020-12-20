@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**Luff3x/Luff3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Luka 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Python Web Developer
+
+### Languages and Tools:
+
+[<img align="left" alt="Github" width="26px" src="<img src="https://img.stackshare.io/service/27/sBsvBbjY.png"/>" />]
+[<img align="left" alt="VScode" width="26px" src="<img src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>" />]
+[<img align="left" alt="Python" width="26px" src="<img src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>" />]
+[<img align="left" alt="Django" width="26px" src="<img src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>" />]
+[<img align="left" alt="PostgreSQL" width="26px" src="<img src="https://img.stackshare.io/service/1028/ASOhU5xJ.png"/>" />]
+[<img align="left" alt="Docker" width="26px" src="<img src="https://img.stackshare.io/service/586/n4u37v9t_400x400.png"/>" />]
+[<img align="left" alt="Kubernates" width="26px" src="<img src="https://img.stackshare.io/service/1885/21_d3cvM.png"/>" />]
+[<img align="left" alt="Redis" width="26px" src="<img src="https://img.stackshare.io/service/1031/redis.png"/>" />]
+[<img align="left" alt="Ubuntu" width="26px" src="<img src="https://img.stackshare.io/service/3511/cof_orange_hex.jpg"/>" />]
+[<img align="left" alt="JavaScript" width="26px" src="<img src="https://img.stackshare.io/service/1209/javascript.jpeg"/>" />]
+[<img align="left" alt="React" width="26px" src="<img src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>" />]
+[<img align="left" alt="VueJs" width="26px" src="<img src="https://img.stackshare.io/service/3837/paeckCWC.png"/>" />]
+[<img align="left" alt="HTML5" width="26px" src="<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png"/>" />]
+[<img align="left" alt="Slack" width="26px" src="<img src="https://img.stackshare.io/service/675/RNiSRYOF_400x400.jpg"/>" />]
+[<img align="left" alt="Jira" width="26px" src="<img src="https://img.stackshare.io/service/154/Qifq4jpS_400x400.jpg"/>" />]
+[<img align="left" alt="StackOverflow" width="26px" src="<img src="https://img.stackshare.io/service/1927/so-icon.png"/>" />]
+
+<br />
+<br />
