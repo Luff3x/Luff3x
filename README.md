@@ -6,7 +6,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Github" width="26px" src="<img src="https://img.stackshare.io/service/27/sBsvBbjY.png"/>" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+[<img align="left" alt="Github" width="26px" src="<img src="https://img.stackshare.io/service/27/sBsvBbjY.png" />]
 [<img align="left" alt="VScode" width="26px" src="<img src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>" />]
 [<img align="left" alt="Python" width="26px" src="<img src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>" />]
 [<img align="left" alt="Django" width="26px" src="<img src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>" />]
