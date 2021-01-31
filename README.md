@@ -1,6 +1,4 @@
-### Hi there, I'm Luka 👋
-
-Here are some ideas to get you started:
+### I'm Luka 👋
 
 - 🔭 I’m currently working as a Python Web Developer
 
