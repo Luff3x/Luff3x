@@ -1,11 +1,8 @@
-### I'm Luka 👋
+### I am Luka Kakhadze
 
-- 🔭 I’m currently working as a Python Web Developer
+### Technologies:
 
-### Languages and Tools:
-
-<img align="left" alt="Github" width="26px" src="https://img.stackshare.io/service/27/sBsvBbjY.png" />
-<img align="left" alt="VScode" width="26px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>
+<img align="left" alt="PyCharm" width="26px" src="https://img.stackshare.io/service/1644/logo.png"/>
 <img align="left" alt="Python" width="26px" src="https://img.stackshare.io/service/993/pUBY5pVj.png"/>
 <img align="left" alt="Django" width="26px" src="https://img.stackshare.io/service/994/4aGjtNQv.png"/>
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.stackshare.io/service/1028/ASOhU5xJ.png"/>
@@ -20,6 +17,7 @@
 <img align="left" alt="Slack" width="26px" src="https://img.stackshare.io/service/675/RNiSRYOF_400x400.jpg"/>
 <img align="left" alt="Jira" width="26px" src="https://img.stackshare.io/service/154/Qifq4jpS_400x400.jpg"/>
 <img align="left" alt="StackOverflow" width="26px" src="https://img.stackshare.io/service/1927/so-icon.png"/>
-
+<img align="left" alt="Github" width="26px" src="https://img.stackshare.io/service/27/sBsvBbjY.png" />
+<img align="left" alt="Bitbucket" width="26px" src="https://img.stackshare.io/service/28/35O2KIRX_400x400.jpg" />
 <br />
 <br />
